@@ -81,12 +81,12 @@ Table of Contents
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 
+## Projects building on Solana
+see [solana.com/ecosystem](https://www.solana.com/ecosystem)
+
 #### Open-source Projects
 - [Jet Protocol](https://github.com/jet-lab) 
 - [Mango Markets](https://github.com/blockworks-foundation)
 - [Saber](https://github.com/saber-hq)
 - [Bonfida](https://github.com/Bonfida)
 - [TribecaDAO](https://github.com/TribecaHQ)
-
-## Projects building on Solana
-see [solana.com/ecosystem](https://www.solana.com/ecosystem)
